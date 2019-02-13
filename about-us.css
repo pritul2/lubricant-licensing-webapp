@@ -2,20 +2,17 @@ h1{
 	color: white;
 }
 body{
-	background-image: url("https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
+		background-image: url("https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
+		margin: 0px auto;
+		margin-left: 20px;
+		margin-right: 25px;
+}
 
-}
-#heading{
-	 background-size: cover;
-  background-position: left center;
-  height: 700px;
-  width: 100%;
-}
 h1{
 	font-family: georgia;
 	font-size: 48px;
 	font-weight: bold;
-	border: 5px solid black(22, 77, 100);
+	border: 10px solid black(22, 77, 100);
 	border-radius: 15px;
 	background-image: url("heading.png");
 	position: relative;
