@@ -1,6 +1,4 @@
-h1{
-	color: white;
-}
+
 body{
 		background-image: url("https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
 		margin: 0px auto;
@@ -9,6 +7,7 @@ body{
 }
 
 h1{
+	color: white;
 	font-family: georgia;
 	font-size: 48px;
 	font-weight: bold;
@@ -17,4 +16,17 @@ h1{
 	background-image: url("heading.png");
 	position: relative;
 	padding: 10px;
+}
+h2{
+	color: black;
+	font-family: georgia;
+}
+
+p
+{
+	color: black;
+	font-family: Sanserif;
+	font-spacing: 3;
+	overflow: scroll;
+	text-align: justify;
 }
