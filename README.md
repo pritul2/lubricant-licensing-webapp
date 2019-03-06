@@ -6,3 +6,8 @@ This is the group project on lubricant licensing
 <img width="1434" alt="image" src="https://user-images.githubusercontent.com/41751718/53586663-a4fe7a80-3bae-11e9-90cd-9e1769b8430c.png">
 
 <img width="1436" alt="image" src="https://user-images.githubusercontent.com/41751718/53584276-4b478180-3ba9-11e9-9b10-c36617cff7f9.png">
+
+<img width="1434" alt="screenshot 2019-03-06 at 10 10 39 pm" src="https://user-images.githubusercontent.com/41751718/53897758-ceab1c00-405c-11e9-9551-98a50b20f6e4.png">
+
+<img width="1422" alt="screenshot 2019-03-06 at 10 10 55 pm" src="https://user-images.githubusercontent.com/41751718/53897759-cf43b280-405c-11e9-99e1-e4e1fc7103ad.png">
+
