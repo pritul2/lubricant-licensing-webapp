@@ -3,16 +3,7 @@ body{
 	background-image: url("https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
 	
 }
-nav{
-	background-color: blue;
-	text-align: center;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	position: fixed;
-	width: 1350px;
-	top: 0px;
 
-}
 a{
 	color: white;
 	padding-right: 50px;
@@ -23,19 +14,18 @@ a{
 a:hover{
 	color: tomato;
 }
-.login{
-	color: blue;
+login{
+	background-color: blue;
 	font-size: 25px;
 }
 button{
-	background-color: blue;
+	background-color: black;
 	font-size: 25px;
-	background-color: lightblue;
+	color:white;
 	float:right;
 	border-width: 2px;
 }
 button:hover{
-	background-color: deepskyblue;
 	color: red;
 }
 li{
