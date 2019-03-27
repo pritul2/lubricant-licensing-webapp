@@ -1,5 +1,5 @@
-### lubricant-licensing-webapp
-# This project is all about the generation of the lubricating licence online through the web application in which there will be all the information provided in detail about the lubricating licence we process that information and generates the license for the user through proper validation
+# lubricant-licensing-webapp
+### This project is all about the generation of the lubricating licence online through the web application in which there will be all the information provided in detail about the lubricating licence we process that information and generates the license for the user through proper validation
 
 This is the group project on lubricant licensing 
 <img width="1440" alt="screenshot 2019-02-13 at 11 04 45 pm" src="https://user-images.githubusercontent.com/41751718/52732014-308bdf00-2fe5-11e9-8372-3eb6d5c98c5f.png">
