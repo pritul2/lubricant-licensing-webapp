@@ -2,14 +2,12 @@
 ### This project is all about the generation of the lubricating licence online through the web application in which there will be all the information provided in detail about the lubricating licence we process that information and generates the license for the user through proper validation
 
 This is the group project on lubricant licensing 
-<img width="1440" alt="screenshot 2019-02-13 at 11 04 45 pm" src="https://user-images.githubusercontent.com/41751718/52732014-308bdf00-2fe5-11e9-8372-3eb6d5c98c5f.png">
-<img width="1420" alt="image" src="https://user-images.githubusercontent.com/41751718/53584038-be042d00-3ba8-11e9-8b0f-39c700503317.png">
-
-<img width="1434" alt="image" src="https://user-images.githubusercontent.com/41751718/53586663-a4fe7a80-3bae-11e9-90cd-9e1769b8430c.png">
-
-<img width="1436" alt="image" src="https://user-images.githubusercontent.com/41751718/53584276-4b478180-3ba9-11e9-9b10-c36617cff7f9.png">
-
-<img width="1434" alt="screenshot 2019-03-06 at 10 10 39 pm" src="https://user-images.githubusercontent.com/41751718/53897758-ceab1c00-405c-11e9-9551-98a50b20f6e4.png">
-
-<img width="1422" alt="screenshot 2019-03-06 at 10 10 55 pm" src="https://user-images.githubusercontent.com/41751718/53897759-cf43b280-405c-11e9-99e1-e4e1fc7103ad.png">
-
+<img width="847" alt="Untitled 2" src="https://user-images.githubusercontent.com/41751718/55176328-f34f6b00-51a6-11e9-8f52-13715e070bba.png">
+<img width="843" alt="Untitled" src="https://user-images.githubusercontent.com/41751718/55176330-f34f6b00-51a6-11e9-8462-8ea46e6579b7.png">
+![unnamed-15](https://user-images.githubusercontent.com/41751718/55176239-c8651700-51a6-11e9-950c-a767001b1500.png)
+![unnamed-14](https://user-images.githubusercontent.com/41751718/55176241-c8fdad80-51a6-11e9-9290-f4ac886beba6.png)
+![unnamed-13](https://user-images.githubusercontent.com/41751718/55176242-c8fdad80-51a6-11e9-8c1c-824bbee596d5.png)
+![unnamed-12](https://user-images.githubusercontent.com/41751718/55176243-c9964400-51a6-11e9-8812-e592670bf5bc.png)
+![unnamed-9](https://user-images.githubusercontent.com/41751718/55176245-ca2eda80-51a6-11e9-99c4-bce768bafab8.png)
+![unnamed-10](https://user-images.githubusercontent.com/41751718/55176246-ca2eda80-51a6-11e9-869e-f24dee38b657.png)
+![unnamed-11](https://user-images.githubusercontent.com/41751718/55176247-cac77100-51a6-11e9-896b-a6459245e902.png)
