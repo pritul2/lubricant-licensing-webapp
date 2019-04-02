@@ -20,10 +20,10 @@ login{
 }
 button{
 	background-color: black;
-	font-size: 25px;
+	font-size: 20px;
 	color:white;
 	float:right;
-	border-width: 2px;
+	width: 15%;
 }
 button:hover{
 	color: red;
